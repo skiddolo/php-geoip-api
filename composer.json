@@ -1,0 +1,16 @@
+{
+    "name": "olegstepura/php-geoip-api",
+    "version": "dev-master",
+    "description": "dev-master",
+    "authors": [
+        {
+            "name": "Maxmind",
+            "homepage": "http://www.maxmind.com/"
+        },
+        {
+            "name": "Oleg Stepura",
+            "email": "github@oleg.stepura.com",
+            "homepage": "http://oleg.stepura.com/"
+        }
+    ]
+}
