@@ -16,6 +16,7 @@ Usage
 Gets country name by hostname :
 
 ```php
+<?php
 include("geoip.inc");
 
 $gi = geoip_open("/usr/local/share/GeoIP/GeoIP.dat",GEOIP_STANDARD);
